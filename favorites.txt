@@ -1,9 +1,7 @@
-<<<<<<< HEAD
+
 Mint
 Moringa
 Potato
-=======
 Avengers
 Mission Impossible
 Man Of Steel
->>>>>>> movies
